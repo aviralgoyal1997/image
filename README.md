@@ -14,3 +14,9 @@ After applying relu improving that accuracy more is kinda not possible but while
   <h2>Smooth Relu</h2><img src="https://i.stack.imgur.com/7Etfy.png" width="500"/>
 </p>
 
+<p align="center">
+  <h2>red apple</h2><img src="https://github.com/aviralgoyal1997/image/blob/master/Screenshot%20from%202018-04-16%2015-58-49.png" width="800"/>
+  <h2>Green Apple</h2><img src="https://github.com/aviralgoyal1997/image/blob/master/Screenshot%20from%202018-04-16%2016-00-06.png" width="800"/>
+  <h2>Banana</h2><img src="https://github.com/aviralgoyal1997/image/blob/master/Screenshot%20from%202018-04-16%2016-01-40.png" width="800"/>
+</p>
+
